@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<config>
-    <unity exepath="D:\Program Files\Unity\Editor\Unity.exe"></unity>
-      <Projectpath path="F:\Work\BeanVR\产品\Editor\Materia_Editor">
-            <BuilderTarget target="Win" patform="Steam">Steam</BuilderTarget>
-            <BuilderTarget target="Win" patform="Oclus">Oclus</BuilderTarget>
-            <BuilderTarget target="Win" patform="Viewport">Viewport</BuilderTarget>
-      </Projectpath>
-</config>
